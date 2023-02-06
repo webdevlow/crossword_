@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\bin\Release\CrosswordCreator.exe
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\bin\Release\CrosswordCreator.pdb
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\obj\x86\Release\MainWindow.baml
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\obj\x86\Release\MainWindow.g.cs
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\obj\x86\Release\App.g.cs
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\obj\x86\Release\CrosswordCreator_MarkupCompile.cache
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\obj\x86\Release\CrosswordCreator.g.resources
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\obj\x86\Release\CrosswordCreator.Properties.Resources.resources
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\obj\x86\Release\CrosswordCreator.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\obj\x86\Release\CrosswordCreator.exe
+C:\Users\user\Downloads\CrosswordGame\CrosswordCreator\CrosswordGame\obj\x86\Release\CrosswordCreator.pdb
